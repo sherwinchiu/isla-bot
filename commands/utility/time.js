@@ -21,7 +21,7 @@ module.exports = {
             ".sherwin": "B",
             sasha3_3_3: "C",
             gorge_: "D",
-            Nicolas: "E",
+            vergilphiliac: "E",
         };
         const { commandName, user } = interaction;
 
