@@ -22,6 +22,7 @@ module.exports = {
             sasha3_3_3: "C",
             gorge_: "D",
             vergilphiliac: "E",
+            cason_ng: "F",
         };
         const { commandName, user } = interaction;
 
